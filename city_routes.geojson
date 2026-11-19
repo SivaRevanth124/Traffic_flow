@@ -1,0 +1,190 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "system": "TrafficFlow City Traffic Intelligence Platform",
+    "generated_at": "2026-11-18T19:08:15.832415+00:00",
+    "total_trajectories": 5
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006,
+            40.7128
+          ],
+          [
+            -73.97,
+            40.721
+          ],
+          [
+            -73.9352,
+            40.7306
+          ]
+        ]
+      },
+      "properties": {
+        "trajectory_id": "TRJ-801",
+        "vehicle_category": "car",
+        "vehicle_description": "Car (Silver Sedan)",
+        "camera_sequence": [
+          "CAM-001",
+          "CAM-002"
+        ],
+        "duration_str": "8m 13s",
+        "duration_seconds": 493.0,
+        "distance_km": 4.2,
+        "confidence_score": 0.94,
+        "cluster_label": "Cluster #3: Airport Express Bypass Route",
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.0445,
+            40.6892
+          ],
+          [
+            -73.91,
+            40.665
+          ],
+          [
+            -73.7781,
+            40.6413
+          ]
+        ]
+      },
+      "properties": {
+        "trajectory_id": "TRJ-802",
+        "vehicle_category": "truck",
+        "vehicle_description": "Commercial Heavy Freight (White/Blue)",
+        "camera_sequence": [
+          "CAM-003",
+          "CAM-004"
+        ],
+        "duration_str": "23m 15s",
+        "duration_seconds": 1395.0,
+        "distance_km": 18.5,
+        "confidence_score": 0.89,
+        "cluster_label": "Cluster #2: Central Station \u2194 Main Street Link",
+        "cluster_id": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006,
+            40.7128
+          ],
+          [
+            -74.001,
+            40.72
+          ],
+          [
+            -73.996,
+            40.729
+          ]
+        ]
+      },
+      "properties": {
+        "trajectory_id": "TRJ-803",
+        "vehicle_category": "motorcycle",
+        "vehicle_description": "Motorcycle (Dark/Black)",
+        "camera_sequence": [
+          "CAM-001",
+          "CAM-006"
+        ],
+        "duration_str": "2m 43s",
+        "duration_seconds": 163.0,
+        "distance_km": 1.4,
+        "confidence_score": 0.74,
+        "cluster_label": "Cluster #3: Airport Express Bypass Route",
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -73.9352,
+            40.7306
+          ],
+          [
+            -73.956,
+            40.736
+          ],
+          [
+            -73.978,
+            40.742
+          ]
+        ]
+      },
+      "properties": {
+        "trajectory_id": "TRJ-804",
+        "vehicle_category": "bus",
+        "vehicle_description": "City Transit Bus Route 14B",
+        "camera_sequence": [
+          "CAM-002",
+          "CAM-005"
+        ],
+        "duration_str": "11m 50s",
+        "duration_seconds": 710.0,
+        "distance_km": 6.8,
+        "confidence_score": 0.96,
+        "cluster_label": "Cluster #3: Airport Express Bypass Route",
+        "cluster_id": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.006,
+            40.7128
+          ],
+          [
+            -73.97,
+            40.721
+          ],
+          [
+            -73.9352,
+            40.7306
+          ],
+          [
+            -73.978,
+            40.742
+          ]
+        ]
+      },
+      "properties": {
+        "trajectory_id": "TRJ-805",
+        "vehicle_category": "car",
+        "vehicle_description": "Delivery Van (White)",
+        "camera_sequence": [
+          "CAM-001",
+          "CAM-002",
+          "CAM-005"
+        ],
+        "duration_str": "20m 03s",
+        "duration_seconds": 1203.0,
+        "distance_km": 11.0,
+        "confidence_score": 0.92,
+        "cluster_label": "Cluster #1: Harbor \u2192 North Ring Arterial Corridor",
+        "cluster_id": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "TrafficFlow: Start",
+      "type": "shell",
+      "command": "${workspaceFolder}\\start_trafficflow.bat",
+      "windows": {
+        "command": "${workspaceFolder}\\start_trafficflow.bat"
+      },
+      "isBackground": false,
+      "problemMatcher": [],
+      "runOptions": {
+        "runOn": "folderOpen"
+      }
+    }
+  ]
+}
